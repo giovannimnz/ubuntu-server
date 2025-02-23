@@ -1,4 +1,6 @@
-sudo rm -rf nodes
+cd ~
+
+sudo rm -rf ubuntu-config
 
 git clone https://github.com/giovannimnz/nodes.git
 
