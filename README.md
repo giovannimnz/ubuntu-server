@@ -2,7 +2,7 @@ cd ~
 
 sudo rm -rf ubuntu-config
 
-git clone https://github.com/giovannimnz/nodes.git
+git clone https://github.com/giovannimnz/ubuntu-server.git
 
 sudo apt install iptables iptables-persistent -y
 
